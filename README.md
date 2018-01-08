@@ -23,3 +23,27 @@ Install and Start:
 > c:\python36\Scripts\pip.exe requirements.txt
 > c:\python36\python.exe src\main.py
 ```
+
+
+
+Credits
+=======
+
+Contributors
+------------
+
+
+Sponsors
+--------
+
+
+Maintainers
+--------
+* `Cytex124 <https://github.com/cytex124>`
+
+Donate
+--------
+BTC: 1Bhikgq7h6Fg6DFJ4t8HZKnPhQfNbN6vc3<br/>
+BCH: 1EGvdyqxb6wkebtxdjf6sXExY8XYpHAPTz<br/>
+ETH: 0x811d2222C78439f7589E588E950C9A28176C10D6<br/>
+LTC: LeLF1hZnRAkCUe9zXvRfqDCmjU4EUQrgvU
